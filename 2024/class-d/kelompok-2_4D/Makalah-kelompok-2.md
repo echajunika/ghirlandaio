@@ -9,7 +9,7 @@ Perpustakaan dan Arsip Digital
 ---
 
 <div align="center">
-	 
+	  <img src="./photo/logo-uin-jakarta.jpg" width="250">
 </div>
 
 **<p align="center">Disusun Oleh:**  
