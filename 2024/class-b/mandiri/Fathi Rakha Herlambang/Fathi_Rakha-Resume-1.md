@@ -1,4 +1,6 @@
-# Hubungan dan Relasi Agama dan Sains 
+# Apakah Hubungan Antara Agama dan Sains Dapat di Katakan Bertolak Belakang
+
+resume hasil makalah kelompok-1
 
 ## Pendahuluan
 Berangkat dari satu pertanyaan "Apakah agama dan sains saling bertolak belakang atau berkesinambungan dan memiliki relasi yang tidak saling menjatuhkan?", topik ini masih sering dibahas dan menjadi perdebatan saat ini 
