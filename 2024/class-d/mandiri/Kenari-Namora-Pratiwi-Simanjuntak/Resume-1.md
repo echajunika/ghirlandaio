@@ -28,7 +28,6 @@ Asfar, A. I. T., & Asfar, A. I. A. (2019). Pendidikan Masa Renaissance: Pemikira
 Dani, S. M., & Salminawati. (2022). Perkembangan Filsafat dan Sains Pada Zaman 
   Renainssance. Journal of Social Research, 1(5), 328-333.
 Dampak dan Pengaruh Renainsans di ropa: Refleksi Budaya dan Ilmu (n.d.). Studocu. 
-  https://www.studocu.id/id/document/universitas-negeri-yogyakarta/sejarah-eropa-history-of-    
-  europe/dampak-dan-pengaruh-renaisans-di-eropa/44439259
+  https://www.studocu.id/id/document/universitas-negeri-yogyakarta/sejarah-eropa-history-of-   europe/dampak-dan-pengaruh-renaisans-di-eropa/44439259
 
 
