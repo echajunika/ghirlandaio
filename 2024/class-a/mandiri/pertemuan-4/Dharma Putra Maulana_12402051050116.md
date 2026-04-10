@@ -12,6 +12,9 @@ Perkembangan teknologi perangkat lunak memberikan dua cara utama, yaitu sumber t
 
 ## Metode
 
+Metode yang saya gunakan adalah melakukan searching di google dan menemukan 2 artikel yang membahas soal Open Source dan Closed Source. Setelah saya membaca, saya mentranslate ke bahasa Indonesia dan mensitasi artikel tersebut ke resume saya.
+<img width="297" height="210" alt="Screenshot 2026-04-10 110549" src="https://github.com/user-attachments/assets/e46e69bd-988b-4670-a94e-905d40087c6b" />
+
 
 
 
