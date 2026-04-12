@@ -13,6 +13,10 @@ Seiring dengan meningkatnya stabilitas dan kematangan inovasi, sektor swasta mul
 
 Namun demikian, transformasi ini juga memunculkan kritik sebagaimana disampaikan oleh Karl Marx dalam Das Kapital, yang menyoroti adanya kecenderungan pemusatan kepemilikan dan kekuasaan. Teknologi yang pada awalnya didanai oleh publik kemudian berada dalam kontrol privat, sehingga menimbulkan ketimpangan dalam akses dan distribusi manfaat. Dengan demikian, kebijakan teknologi pada periode tersebut tidak hanya mempercepat kemajuan, tetapi juga menjadi titik awal penguatan struktur ekonomi kapitalistik yang semakin kompleks.
 
+## Kesimpulan
+Secara keseluruhan, “hasil kongres di Washington tahun 1970” dapat dipahami sebagai titik peralihan penting dalam hubungan antara negara dan teknologi. Negara tetap berperan sebagai penyedia dasar melalui pendanaan riset, namun mulai memberikan ruang lebih besar kepada sektor swasta untuk mengembangkan dan mengomersialisasikan inovasi. Berdasarkan Troublemakers: Silicon Valley's Coming of Age, The Wealth of Nations, dan Das Kapital, perubahan ini menghasilkan percepatan perkembangan teknologi modern sekaligus menciptakan dominasi pasar dan potensi ketimpangan ekonomi, yang kemudian menjadi fondasi bagi industri teknologi global saat ini.
+
+
 
 
 
