@@ -62,6 +62,20 @@ era manusia super (era AI/Society 5.0), perpustakaan kini memiliki "otak buatan"
   2. Privasi (Privacy): Hak individu untuk mengontrol informasi mereka dan pelindungan terhadap akses yang tidak sah.
   3. Keadilan (Fairness): Menjamin kesetaraaan akses, non-diskriminasi, dan pencegahan bias dalam algoritma keamanan.
   4. Akuntabilitas (Accountabillity): Transparansi dan tanggung jawab pengambil keputusan (seperti pemerintah dan perusahaan) atas langkah-langkah keamanan yang mereka terapkan.
+
+Dalam hubungan terhadap perpustakaan terdapat 3 aspek hubungan yang saya bahas, yaitu:
+1. Transformasi Infrastruktur Informasi
+Perpustakaan digital bukan hanya koleksi berkas, melainkan sebuah infrastruktur informasi yang kompleks yang mencakup komponen perangkat keras seperti server dan basis data, serta perangkat lunak seperti Sistem Manajemen Perpustakaan (LMS), protokol, dan layanan awan (cloud) Digitalisasi layanan ini secara signifikan meningkatkan akses terhadap pengetahuan, namun di sisi lain menciptakan masalah keamanan siber yang berlapis.
+
+2. Kerentanan yang Muncul pada Layanan Digital
+Layanan perpustakaan digital menciptakan berbagai titik kerentanan baru karena melibatkan:
+Proses Login Pengguna: Koleksi digital dan sumber daya elektronik sering kali memerlukan proses masuk pengguna yang mengumpulkan informasi sensitif Interaksi Sistem: Adanya interaksi antara basis data perpustakaan dengan sistem eksternal lainnya membuka peluang serangan Terminal Publik dan Wi-Fi: Komponen digital seperti terminal OPAC (Online Public Access Catalog) dan akses Wi-Fi pengunjung diidentifikasi sebagai zona risiko tertinggi karena sering kali memiliki mekanisme otentikasi yang rendah.
+
+3. Ancaman Spesifik terhadap Koleksi Digital
+Perpustakaan digital menghadapi ancaman nyata yang dapat melumpuhkan fungsinya, seperti:
+Ransomware: Serangan ini dapat menyebabkan hilangnya layanan terhadap koleksi digital selama berhari-hari
+Pencurian Data: Akses tanpa izin dapat mengakibatkan pencurian kekayaan intelektual atau data pribadi (PII) pengguna perpustakaan
+Gangguan Layanan (DoS): Serangan yang mencegah pengguna sah untuk mengakses sumber daya informasi digital
 ## 2.3 Jelaskan prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
   Dalam lingkungan kontemporer (terbaru), perpustakaan dan lembaga arsip diklasifikasikan sebagai lembaga epistemik, yang menandakah bahwa tujuan utama mereka untuk memperoleh, menjaga, dan menyebarluaskan pengetahuan secara jujur dan ketidakberpihakan (objektif). Sebagai penjaga kebenerana informasi, lembaga ini harus menerapkan prinsip prinsip keamanan siber yang tidak hanya bersifat teknis, tetapi juga etis.
 
